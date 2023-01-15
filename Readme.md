@@ -65,3 +65,13 @@ http://localhost:8080/hello-mvc?name=spring
 param => ?name=spring 을 념겨줘야 에러가 발생하지않음
 ```
 
+
+
+> day4
+
+```
+API
+
+alt + insert  => getter and setter 
+```
+
