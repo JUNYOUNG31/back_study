@@ -73,5 +73,11 @@ param => ?name=spring 을 념겨줘야 에러가 발생하지않음
 API
 
 alt + insert  => getter and setter 
+
+@ResponseBody 를 사용
+HTTP의 BODY에 문자 내용을 직접 반환
+viewResolver 대신에 HttpMessageConverter 가 동작
+기본 문자처리: String HttpMessageConverter
+기본 객체처리: MappingJackson2HttpMessageConverter(JSON으로 바꿔주는 라이브러리)
 ```
 
