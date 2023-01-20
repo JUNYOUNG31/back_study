@@ -99,3 +99,13 @@ viewResolver 대신에 HttpMessageConverter 가 동작
 테스트는 각각 독립적으로 실행. 테스트 순서에 의존관계가 있는 것은 좋은 테스트가 아니다.
 ```
 
+
+
+> day6
+
+```
+회원 서비스 개발
+
+optional 단축키 ctrl alt v
+```
+
